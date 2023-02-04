@@ -1,1 +1,1 @@
-# webProject1
+# Minimal web Project1
